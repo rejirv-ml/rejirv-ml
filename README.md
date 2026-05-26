@@ -69,9 +69,9 @@ Currently learning FastAPI, AI deployment, and LLM applications.
 
 # 📈 GitHub Stats
 
-![Reji's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejirv-ml&show_icons=true)
+![Reji's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejirv-ml&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rejirv-ml&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rejirv-ml&layout=compact&theme=tokyonight)
 
 ---
 
