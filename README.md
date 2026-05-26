@@ -67,14 +67,6 @@ Currently learning FastAPI, AI deployment, and LLM applications.
 
 ---
 
-# 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rejirv-ml&show_icons=true&theme=radical" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejirv-ml&layout=compact&theme=radical" />
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rejirv-ml)
